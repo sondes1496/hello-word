@@ -1,1 +1,3 @@
 # hello-word
+hi!
+I'am sondes!I like web design for this I want to master using java, angular, node.js ,phython....
